@@ -3,3 +3,6 @@
 ## Random Only
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=XysID&show_icons=true&theme=radical)
+
+
+![Profile views](https://gpvc.arturio.dev/XysID)
